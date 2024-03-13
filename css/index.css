@@ -30,7 +30,7 @@
 }
 /* Indicators active image style */
 .article-slide .carousel-indicators .active img {
-    border: 5px solid #c1e729;
+    border: 5px solid #ffcb05;
     opacity: 0.7;
 }
 
@@ -73,7 +73,7 @@ margin-right:5px;
  margin-top:10px;
   }
 .progress-bar-success{
-  background:#c1e729;
+  background:#ffcb05;
   }
 .review_home_1li{
  margin-top:15px; 
@@ -175,12 +175,12 @@ a.clickable { color: inherit; }
 a.clickable:hover { text-decoration:none; }
 
 .panel-success{
- border-color:#c1e729;
+ border-color:#ffcb05;
   }
 .panel-success>.panel-heading{
- background: #c1e729; 
+ background: #ffcb05;
  color:#000;
- border-color:#c1e729;
+ border-color:#ffcb05;
  padding:20px 30px;
   }
 .panel-collapsed{
@@ -209,7 +209,7 @@ color:#fff;
 margin-top:20px; 
   }
 .league_1 h4 span{
-color:#c1e729; 
+color:#ffcb05;
   }
 .league_1 p{
 color:#fff;  
@@ -223,7 +223,7 @@ padding-bottom:50px;
   }
 .counting_1 span{
   font-size:50px;
-  color:#c1e729;
+  color:#ffcb05;
   }
 /*********************counting_end****************/
 
@@ -256,13 +256,13 @@ font-size:16px;
 .signup_1 .btn{
 padding:14px 20px;
 border-radius:0;
-background:#c1e729;
-border-color: #c1e729;
+background:#ffcb05;
+border-color: #ffcb05;
 color:#000;
   }
 .signup_1 .btn:hover{
- background:#000;
- border-color:#000; 
+ background:#121652;
+ border-color:#121652;
  color:#fff;
   }
 .signup_1 .input-group{

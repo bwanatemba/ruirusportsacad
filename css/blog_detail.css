@@ -15,7 +15,7 @@ margin-left:0;
 .blod_d1l1 p i{
  font-size:30px;
  margin-right:5px;
- color:#c1e729;
+ color:#ffcb05;
  vertical-align:middle;
  }
 .blod_d1l1 ul li{
@@ -25,7 +25,7 @@ padding-right:10px;
 border-right:1px solid #ccc; 
   }
 .blod_d1l1 ul li a:hover{
- color:#c1e729;
+ color:#ffcb05;
   }
 .blod_d1l1 ul li i{
 margin-right:5px;  
@@ -78,8 +78,8 @@ height:150px;
 margin-top:20px;
  }
 .blod_d1r1 .btn-primary{
-   background:#c1e729;
-   border:1px solid #c1e729;
+   background:#ffcb05;
+   border:1px solid #ffcb05;
    color:#000;
    }
 .blod_d1r1 .form-control{
@@ -90,8 +90,8 @@ font-size:16px;
 .blod_d1r1 .btn{
 padding:14px 20px;
 border-radius:0;
-background:#c1e729;
-border-color: #c1e729;
+background:#ffcb05;
+border-color: #ffcb05;
 color:#000;
   }
 .blod_d1r1 .btn:hover{

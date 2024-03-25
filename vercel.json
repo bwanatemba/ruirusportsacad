@@ -4,7 +4,5 @@
     },
     "routes": [
         { "src": "/(.*)", "dest": "/api/index.php" }
-        { "src": "/css/style.css", "dest": "/css/global.css" },
-        { "src": "/js/script.js", "dest": "/js/bootstrap.min.js" }
     ]
 }

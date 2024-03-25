@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><img src="../img/RSA%20LOGO.png" alt="RSA LOGO" width="50" height="60"> Ruiru Sports Academy</a>
+                <a class="navbar-brand" href="index.php"><img src="RSA%20LOGO.png" alt="RSA LOGO" width="50" height="60"> Ruiru Sports Academy</a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

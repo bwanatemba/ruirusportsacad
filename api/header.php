@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ruiru Sports Academy</title>
-	<link href="../css/bootstrap.min.css" rel="stylesheet">
-	<link href="../css/global.css" rel="stylesheet">
-	<link href="../css/index.css" rel="stylesheet">
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/global.css" rel="stylesheet">
+	<link href="/css/index.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Viga&display=swap" rel="stylesheet">
-	<script src="../js/jquery-2.1.1.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
+	<script src="/js/jquery-2.1.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
   </head>
   
 <body>
@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php"><img src="../img/RSA%20LOGO.png" alt="RSA LOGO" width="50" height="60"> Ruiru Sports Academy</a>
+                <a class="navbar-brand" href="index.php"><img src="https://github.com/bwanatemba/ruirusportsacad/blob/main/api/RSA%20LOGO.png" alt="RSA LOGO" width="50" height="60"> Ruiru Sports Academy</a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
